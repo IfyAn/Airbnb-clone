@@ -100,7 +100,6 @@ const UserMenu: React.FC<UserMenuProps> = ({
           "
         >
           <div className="flex flex-col cursor-pointer">
-
             <>
               <MenuItem
                 label="Login"
